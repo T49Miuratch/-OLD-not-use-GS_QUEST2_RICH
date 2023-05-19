@@ -1,5 +1,5 @@
 # ジーズクエスト［リッチ版］
-## https://github.com/T49Miuratch/janken_gsquest.git
+## https://github.com/T49Miuratch/GS_QUEST2_RICH
 
   - デプロイしている場合はURLを記入（任意）
 
