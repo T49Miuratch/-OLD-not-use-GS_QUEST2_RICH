@@ -1,5 +1,6 @@
 # ジーズクエスト［リッチ版］
 ## https://github.com/T49Miuratch/janken_gsquest.git
+
   - デプロイしている場合はURLを記入（任意）
 
 ## 紹介と使い方
@@ -33,5 +34,3 @@
 ## 参考にした web サイトなど
 
 bing AI
-
-htmlやcss内に要素ごとに記載しています
